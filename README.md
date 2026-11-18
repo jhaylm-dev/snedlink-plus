@@ -181,7 +181,7 @@ If you'd like to know more about how it was built, feel free to reach out throug
 
 ---
 
-## My Role
+## Author
 
 Full stack development of the whole platform: the Flutter parent app, the React web portals, the Wails desktop packaging, and the Go backend with its database design.
 
