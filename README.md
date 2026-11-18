@@ -33,11 +33,11 @@ The admin and teacher portals are built as a web app and wrapped into a native d
 
 | Sign in | Home | Behavior |
 |:---:|:---:|:---:|
-| <img src="images/mobile/01-login.png" width="220" /> | <img src="images/mobile/02-home.png" width="220" /> | <img src="images/mobile/05-behavior.png" width="220" /> |
+| <img src="images/mobile/01-login.jpg" width="220" /> | <img src="images/mobile/02-home.jpg" width="220" /> | <img src="images/mobile/05-behavior.jpg" width="220" /> |
 
 | Recommendations | More |
 |:---:|:---:|
-| <img src="images/mobile/03-recommendations.png" width="220" /> | <img src="images/mobile/04-more.png" width="220" /> |
+| <img src="images/mobile/03-recommendations.jpg" width="220" /> | <img src="images/mobile/04-more.jpg" width="220" /> |
 
 </div>
 
